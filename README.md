@@ -1,7 +1,6 @@
 # Paint
 
-![Paint Program Screenshot](https://github.com/mylescruz/Paint/Paint/Documents/PAINT_SCREENSHOT.png)
-
+![Paint Program Screenshot](https://github.com/mylescruz/Paint/blob/main/Paint/Documents/PAINT_SCREENSHOT.png)
 # User Manual for Myles’ Mouse Droppings
 There are five buttons in the menu. The "Exit" button is used to exit out of the program. The "Erase" button is used for erasing droppings on the screen. The "Clear" button is used to clear the screen. When the "Foreground" button is selected, when you click a color on the color bar, it changes the color of the font to that selected color. When the "Background" button is selected, if you click a color on the color bar, it changes the background of the character to that selected color. The color bar is made up of 16 colors that the user can choose from. The status line at the bottom of the program has a “CrapChar” label which gives the current dropping’s character value and color attribute. Below CrapChar, the status lines display the coordinates for mouseX and mouseY.  To add a dropping, click anywhere within the menu and status lines in the black screen.
 
